@@ -6,7 +6,7 @@ const provider = new HDWalletProvider(
   //Memonic
   ,
   //API
-  );  // remember to change this to your own endpoint!
+  );  
 const web3 = new Web3(provider);
 
 const deploy = async () => {
