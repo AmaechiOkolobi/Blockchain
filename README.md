@@ -6,7 +6,7 @@
  - Install Truffle
  - Install Ganache/GanacheCLI
 
-##
+## How To Run
  1. Clone Repository
  2. Install Dependencies:
  $ npm install
