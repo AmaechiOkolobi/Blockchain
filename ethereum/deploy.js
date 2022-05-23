@@ -3,9 +3,9 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json'); 
 
 const provider = new HDWalletProvider(
-  //Memonic
+  ''//Memonic
   ,
-  //API
+  ''//API
   );  // remember to change this to your own endpoint!
 const web3 = new Web3(provider);
 
